@@ -1,8 +1,8 @@
 repositories:
   ign-cmake:
     type: git
-    url: https://github.com/ignitionrobotics/ign-cmake
-    version: ign-cmake2
+    url: https://github.com/scpeters/ign-cmake
+    version: find_ogre2_overlay_brew
   ign-common:
     type: git
     url: https://github.com/ignitionrobotics/ign-common
