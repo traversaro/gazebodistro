@@ -3,7 +3,7 @@ repositories:
   ign-cmake:
     type: git
     url: https://github.com/ignitionrobotics/ign-cmake
-    version: ign-cmake2
+    version: mujoco
   ign-common:
     type: git
     url: https://github.com/ignitionrobotics/ign-common
@@ -15,7 +15,7 @@ repositories:
   ign-gazebo:
     type: git
     url: https://github.com/ignitionrobotics/ign-gazebo
-    version: ign-gazebo6
+    version: mujoco
   ign-gui:
     type: git
     url: https://github.com/ignitionrobotics/ign-gui
@@ -35,7 +35,7 @@ repositories:
   ign-physics:
     type: git
     url: https://github.com/ignitionrobotics/ign-physics
-    version: ign-physics5
+    version: mujoco
   ign-plugin:
     type: git
     url: https://github.com/ignitionrobotics/ign-plugin
